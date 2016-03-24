@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\04PrintingArrays\bin\Debug\04PrintingArrays.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\04PrintingArrays\bin\Debug\04PrintingArrays.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\04PrintingArrays\bin\Debug\04PrintingArrays.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\04PrintingArrays\obj\Debug\04PrintingArrays.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\04PrintingArrays\obj\Debug\04PrintingArrays.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\04PrintingArrays\obj\Debug\04PrintingArrays.pdb

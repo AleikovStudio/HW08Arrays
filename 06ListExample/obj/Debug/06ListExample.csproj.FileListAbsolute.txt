@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\06ListExample\bin\Debug\06ListExample.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\06ListExample\obj\Debug\06ListExample.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\06ListExample\bin\Debug\06ListExample.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\06ListExample\bin\Debug\06ListExample.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\06ListExample\obj\Debug\06ListExample.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\06ListExample\obj\Debug\06ListExample.pdb

@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\02InputArray\bin\Debug\02InputArray.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\02InputArray\bin\Debug\02InputArray.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\02InputArray\bin\Debug\02InputArray.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\02InputArray\obj\Debug\02InputArray.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\02InputArray\obj\Debug\02InputArray.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\02InputArray\obj\Debug\02InputArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\042PrintingArrays2\bin\Debug\042PrintingArrays2.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\042PrintingArrays2\bin\Debug\042PrintingArrays2.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\042PrintingArrays2\bin\Debug\042PrintingArrays2.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\042PrintingArrays2\obj\Debug\042PrintingArrays2.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR8Arrays\042PrintingArrays2\obj\Debug\042PrintingArrays2.pdb
